@@ -1,0 +1,56 @@
+# Corpo em Ação
+
+> Esporte, fitness e movimento. Preços lidos nos anúncios do Mercado Livre, com a data de leitura.
+
+Contém links de afiliado Mercado Livre.
+
+## Categorias
+- [Bolas e esportes de quadra](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/bolas-e-esportes-de-quadra/)
+- [Patins, patinetes e lazer ao ar livre](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/patins-patinetes-e-lazer-ao-ar-livre/)
+- [Proteção e acessórios esportivos](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/protecao-e-acessorios-esportivos/)
+- [Acessórios fitness](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/acessorios-fitness/)
+- [Meias, íntimas e acessórios esportivos](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/meias-intimas-e-acessorios-esportivos/)
+- [Fitness e musculação](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/fitness-e-musculacao/)
+- [Natação e surfe](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/natacao-e-surfe/)
+- [Bolsas, mochilas e carteiras](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/bolsas-mochilas-e-carteiras/)
+- [Camping e aventura](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/camping-e-aventura/)
+- [Tênis](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/tenis/)
+- [Acessórios de moda](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/acessorios-de-moda/)
+- [Bicicletas ergométricas](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/bicicletas-ergometricas/)
+- [Smartwatches](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/smartwatches/)
+- [Outros produtos](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/outros-produtos/)
+
+## Guias de compra
+- [Como escolher acessório fitness: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/como-escolher-acessorio-fitness/)
+- [Acessórios fitness até R$ 30: opções e preços](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/acessorios-fitness-ate-30/)
+- [Como escolher bicicleta ergométrica: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/como-escolher-bicicleta-ergometrica/)
+- [Bicicletas ergométricas até R$ 650: opções e preços](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/bicicletas-ergometricas-ate-650/)
+- [Como escolher bolsa ou mochila: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/como-escolher-bolsa-ou-mochila/)
+- [Bolsas, mochilas e carteiras até R$ 30: opções e preços](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/bolsas-mochilas-e-carteiras-ate-30/)
+- [Como escolher meia ou peça íntima: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/como-escolher-meia-ou-peca-intima/)
+- [Meias, íntimas e acessórios esportivos até R$ 30: opções e preços](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/meias-intimas-e-acessorios-esportivos-ate-30/)
+- [Como escolher tênis: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/como-escolher-tenis/)
+- [Tênis até R$ 250: opções e preços](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/tenis-ate-250/)
+- [Como escolher smartwatch: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/como-escolher-smartwatch/)
+- [Smartwatches até R$ 300: opções e preços](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/smartwatches-ate-300/)
+
+## Comparativos
+- [Luva para academia treino fitness crossfit unissex cor vs Luva musculacao crossfit hidrolight feminina treino premium cor: comparativo](https://marcusviniciusps08-hue.github.io/corpo-em-acao/comparativos/luva-para-academia-treino-fitness-crossfit-unissex-cor-vs-luva-musculacao-crossfit-hidroli/)
+- [Bicicleta Ergométrica Bike Spinning 6kg Sensação Inércia Fitness vs Liftness Bicicleta Ergométrica Fitness SP50PTVM Para Cardio E: comparativo](https://marcusviniciusps08-hue.github.io/corpo-em-acao/comparativos/bicicleta-ergometrica-bike-spinning-6kg-sensacao-inercia-fitness-vs-liftness-bicicleta-erg/)
+- [Bicicleta Ergométrica Bike Spinning Para Exercícios Com Volante vs Bicicleta Ergométrica Spinning Profissional Fitness Academia Sport 120: comparativo](https://marcusviniciusps08-hue.github.io/corpo-em-acao/comparativos/bicicleta-ergometrica-bike-spinning-para-exercicios-com-volante-vs-bicicleta-ergometrica-s/)
+- [Bicicleta Ergometrica Spinning GoodVision Profissional Para Cardio Fitness vs Brus fit Bicicleta Ergométrica Spinning Liftness X11 Cor: comparativo](https://marcusviniciusps08-hue.github.io/corpo-em-acao/comparativos/bicicleta-ergometrica-spinning-goodvision-profissional-para-cardio-fitness-vs-brus-fit-bic/)
+- [Pochete corrida slim impermeavel porta celular para treino vs Pochete slim impermeavel porta celular e documentos para: comparativo](https://marcusviniciusps08-hue.github.io/corpo-em-acao/comparativos/pochete-corrida-slim-impermeavel-porta-celular-para-treino-vs-pochete-slim-impermeavel-por/)
+- [Pochete slim corrida treino impermeavel antifurto celular vs Bolsa mochila sacola academia impermeavel forrada compacta: comparativo](https://marcusviniciusps08-hue.github.io/corpo-em-acao/comparativos/pochete-slim-corrida-treino-impermeavel-antifurto-celular-vs-bolsa-mochila-sacola-academia/)
+- [Bolsa de viagem mala transversal academia unisex resistente vs Bolsa mochila saco costas academia trabalho unissex espacosa: comparativo](https://marcusviniciusps08-hue.github.io/corpo-em-acao/comparativos/bolsa-de-viagem-mala-transversal-academia-unisex-resistente-vs-bolsa-mochila-saco-costas-a/)
+- [Manguito uv50 protecao solar moto ciclismo corrida pesca vs Par manguito protecao solar uv50 com dedo manga: comparativo](https://marcusviniciusps08-hue.github.io/corpo-em-acao/comparativos/manguito-uv50-protecao-solar-moto-ciclismo-corrida-pesca-vs-par-manguito-protecao-solar-uv/)
+- [Manguito protecao solar ciclismo manga preto uv masculino vs 1 par meia polaina aerobica academia esporte fitness: comparativo](https://marcusviniciusps08-hue.github.io/corpo-em-acao/comparativos/manguito-protecao-solar-ciclismo-manga-preto-uv-masculino-vs-1-par-meia-polaina-aerobica-a/)
+- [Manguito curto preto kanxa ciclismo corrida volei tamanho vs Meia polaina feminina academia esporte fitness ballet retr: comparativo](https://marcusviniciusps08-hue.github.io/corpo-em-acao/comparativos/manguito-curto-preto-kanxa-ciclismo-corrida-volei-tamanho-vs-meia-polaina-feminina-academi/)
+- [Tênis Olympikus Acqua Feminino vs Tenis Olympikus Dynamic Masculino: comparativo](https://marcusviniciusps08-hue.github.io/corpo-em-acao/comparativos/tenis-olympikus-acqua-feminino-vs-tenis-olympikus-dynamic-masculino/)
+- [Tênis Masculino Striker Fila vs Tênis Masculino Progress Lite Fila Liso: comparativo](https://marcusviniciusps08-hue.github.io/corpo-em-acao/comparativos/tenis-masculino-striker-fila-vs-tenis-masculino-progress-lite-fila-liso/)
+- [Tenis Masculino Fila Racer Speedzone Lisa vs Tênis Feminino Racer Speedzone Fila: comparativo](https://marcusviniciusps08-hue.github.io/corpo-em-acao/comparativos/tenis-masculino-fila-racer-speedzone-lisa-vs-tenis-feminino-racer-speedzone-fila/)
+- [Relogio Microwear Smartwatch S11 Mini Series 11 42mm vs Relógio Inteligente Gps Smartwatch Amoled 3atm Sport Gps: comparativo](https://marcusviniciusps08-hue.github.io/corpo-em-acao/comparativos/relogio-microwear-smartwatch-s11-mini-series-11-42mm-vs-relogio-inteligente-gps-smartwatch/)
+- [Samsung Galaxy Fit3 Smartwatch Tela Amoled 1.6 Bluetooth vs Smartwatch HUAWEI WATCH FIT 5 AMOLED de 182": comparativo](https://marcusviniciusps08-hue.github.io/corpo-em-acao/comparativos/samsung-galaxy-fit3-smartwatch-tela-amoled-1-6-bluetooth-vs-smartwatch-huawei-watch-fit-5-/)
+
+## Sobre
+- [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/corpo-em-acao/sobre/)
+- [Perguntas frequentes](https://marcusviniciusps08-hue.github.io/corpo-em-acao/faq/)
