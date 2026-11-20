@@ -9,8 +9,8 @@ Contém links de afiliado Mercado Livre.
 - [Patins, patinetes e lazer ao ar livre](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/patins-patinetes-e-lazer-ao-ar-livre/)
 - [Acessórios fitness](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/acessorios-fitness/)
 - [Proteção e acessórios esportivos](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/protecao-e-acessorios-esportivos/)
-- [Fitness e musculação](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/fitness-e-musculacao/)
 - [Camping e aventura](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/camping-e-aventura/)
+- [Fitness e musculação](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/fitness-e-musculacao/)
 - [Natação e surfe](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/natacao-e-surfe/)
 - [Tênis](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/tenis/)
 - [Meias, íntimas e acessórios esportivos](https://marcusviniciusps08-hue.github.io/corpo-em-acao/categoria/meias-intimas-e-acessorios-esportivos/)
@@ -25,7 +25,7 @@ Contém links de afiliado Mercado Livre.
 - [Como escolher tênis: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/como-escolher-tenis/)
 - [Tênis até R$ 300: opções e preços](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/tenis-ate-300/)
 - [Como escolher smartwatch: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/como-escolher-smartwatch/)
-- [Smartwatches até R$ 800: opções e preços](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/smartwatches-ate-800/)
+- [Smartwatches até R$ 700: opções e preços](https://marcusviniciusps08-hue.github.io/corpo-em-acao/guias/smartwatches-ate-700/)
 
 ## Comparativos
 - [Bicicleta Ergométrica Bike Spinning Para Exercícios Com Volante vs Liftness Bicicleta Ergométrica Fitness SP50PTVM Para Cardio E: comparativo](https://marcusviniciusps08-hue.github.io/corpo-em-acao/comparativos/bicicleta-ergometrica-bike-spinning-para-exercicios-com-volante-vs-liftness-bicicleta-ergo/)
